@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">制作流程图片占位</title>
+  <desc id="desc">后续替换为水东鸭粥制作技艺过程图片</desc>
+  <rect width="800" height="600" fill="#f8f1df"/>
+  <path d="M116 184h568M116 300h568M116 416h568" stroke="#7a3f22" stroke-width="4" opacity=".16"/>
+  <g font-family="serif" font-weight="700">
+    <g transform="translate(126 160)">
+      <circle cx="50" cy="50" r="48" fill="#a33227" opacity=".9"/>
+      <text x="50" y="64" text-anchor="middle" fill="#fff8e8" font-size="30">选</text>
+    </g>
+    <g transform="translate(302 160)">
+      <circle cx="50" cy="50" r="48" fill="#7a3f22" opacity=".9"/>
+      <text x="50" y="64" text-anchor="middle" fill="#fff8e8" font-size="30">熬</text>
+    </g>
+    <g transform="translate(478 160)">
+      <circle cx="50" cy="50" r="48" fill="#a33227" opacity=".9"/>
+      <text x="50" y="64" text-anchor="middle" fill="#fff8e8" font-size="30">煮</text>
+    </g>
+    <g transform="translate(302 330)">
+      <ellipse cx="128" cy="72" rx="142" ry="66" fill="#fff8e8" stroke="#7a3f22" stroke-width="7"/>
+      <ellipse cx="128" cy="68" rx="98" ry="36" fill="#f0d7a5"/>
+      <text x="128" y="174" text-anchor="middle" fill="#4c2719" font-size="32">后续替换：制作流程图</text>
+    </g>
+  </g>
+</svg>
